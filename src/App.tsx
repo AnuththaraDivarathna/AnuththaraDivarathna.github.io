@@ -15,6 +15,7 @@ interface Project {
   tags: string[];
   image: string;
   color: string;
+  uiscreenshots: string
 }
 
 export default function App() {

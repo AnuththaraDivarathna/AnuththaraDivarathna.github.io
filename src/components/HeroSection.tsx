@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
 import { accessCV } from './cvUtils';
 import profileImage from '../assets/Image/IMG_1865.jpg';
 
