@@ -33,7 +33,7 @@ export function ContactSection() {
       ),
       label: "LinkedIn",
       value: "Anuththara Divarathna",
-      href: "https://linkedin.com/in/anuththara-divarathna"
+      href: "https://www.linkedin.com/in/anuththara-divarathna-8a466a215/"
     },
     {
       icon: (
@@ -59,7 +59,7 @@ export function ContactSection() {
       ),
       label: "Behance",
       value: "Anuththara Divarathna",
-      href: "https://behance.net/anuththara-divarathna"
+      href: "https://www.behance.net/anuththaradivarathna"
     }
   ];
 
